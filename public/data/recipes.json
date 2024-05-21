@@ -1,0 +1,86 @@
+[
+    {
+        "id" : 1,
+        "title": "Chicken Pan Pizza",
+        "image": "/img/gallery/img_1.jpg",
+        "authorImg": "/img/top-chiefs/img_1.jpg",
+        "description": "Prepare pizza dough by mixing 2 cups of flour, 1 tsp sugar, 1 tsp salt, 1 tbsp yeast, and 1 cup warm water, knead until smooth, let it rise for 1 hour; for the topping, cook 200g diced chicken breast in olive oil, add 1 tsp each of garlic powder, oregano, and basil, salt and pepper to taste; roll out the dough to fit a greased pizza pan, spread with tomato sauce, add the cooked chicken, top with slices of bell peppers, onions, and olives, cover generously with shredded mozzarella cheese; bake in a preheated oven at 220°C (428°F) for 15-20 minutes or until the crust is golden and cheese is bubbly; serve hot for a delicious Chicken Pan Pizza experience."
+    },
+    {
+        "id" : 2,
+        "title": "Spaghetti and Meatballs",
+        "image": "/img/gallery/img_4.jpg",
+        "authorImg": "/img/top-chiefs/img_2.jpg",
+        "description": "Mix 500g minced beef with 1 chopped onion, 2 chopped garlic cloves, 1 egg, 50g breadcrumbs, salt and pepper to taste, form into meatballs and fry them until golden brown, then prepare the sauce by frying 1 chopped onion and 2 cloves of garlic in olive oil, add 800 g of tomatoes in their own juice, salt, pepper, basil, thyme, cook for 20 minutes, add meatballs and simmer for another 10 minutes, boil spaghetti until done according to package instructions, serve spaghetti with sauce and meatballs, sprinkled with Parmesan and fresh basil."
+    },
+    {
+        "id" : 3,
+        "title": "American Cheese Burger",
+        "image": "/img/gallery/img_5.jpg",
+        "authorImg": "/img/top-chiefs/img_3.jpg",
+        "description": "Mix 500g of ground beef with salt and pepper to taste, form into four patties, grill each side for about 4 minutes for medium-rare, place a slice of American cheese on each patty in the last minute of grilling to melt, lightly toast 4 hamburger buns, spread mayonnaise, ketchup, and mustard to taste on the buns, place the cheese-topped patties on the buns, add slices of tomato, rings of red onion, pickles, and lettuce leaves, top with the other half of the bun, and serve immediately for a classic American cheeseburger experience."
+    },
+    {
+        "id" : 4,
+        "title": "Mutton Biriyani",
+        "image": "/img/gallery/img_6.jpg",
+        "authorImg": "/img/top-chiefs/img_5.jpg",
+        "description": "Marinate 1 kg mutton pieces with 200g yogurt, 2 tablespoons ginger-garlic paste, 1 teaspoon turmeric, 2 teaspoons red chili powder, 2 teaspoons garam masala, salt to taste, and juice of one lemon for at least 2 hours or overnight; in a large pot, fry 2 sliced onions until golden, add marinated mutton and cook until it's half done; soak 500g basmati rice for 30 minutes then cook it in a separate pot with cloves, cardamom, bay leaves, and salt until it's 70% done; layer the mutton and rice in the large pot, sprinkle fried onions, saffron soaked in milk, mint, and coriander leaves between the layers; cover and cook on a low flame for 45 minutes to an hour; serve hot with raita and salad for a delicious Mutton Biriyani."
+    },
+    {
+        "id" : 5,
+        "title": "Japanese Sushi",
+        "image": "/img/gallery/img_10.jpg",
+        "authorImg": "/img/top-chiefs/img_6.jpg",
+        "description": "Prepare sushi rice by washing 2 cups of short-grain sushi rice under cold water until the water runs clear, cook rice with 2 cups of water in a rice cooker or pot, then mix in a blend of 3 tablespoons rice vinegar, 2 tablespoons sugar, and 1 teaspoon salt while the rice is still warm; for the filling, slice fresh ingredients like raw salmon, tuna, avocado, cucumber, and cream cheese; place a sheet of nori (seaweed) on a bamboo sushi mat, spread a thin layer of sushi rice on the nori leaving about 1 cm at the top, arrange your choice of fillings in a line across the rice, roll the sushi tightly using the bamboo mat, then slice the roll into 6-8 pieces with a sharp, wet knife; serve with soy sauce, wasabi, and pickled ginger for an authentic Japanese Sushi experience."
+    },
+    {
+        "id" : 6,
+        "title": "Chicken Pan Pizza",
+        "image": "/img/gallery/img_1.jpg",
+        "authorImg": "/img/top-chiefs/img_1.jpg",
+        "description": "Prepare pizza dough by mixing 2 cups of flour, 1 tsp sugar, 1 tsp salt, 1 tbsp yeast, and 1 cup warm water, knead until smooth, let it rise for 1 hour; for the topping, cook 200g diced chicken breast in olive oil, add 1 tsp each of garlic powder, oregano, and basil, salt and pepper to taste; roll out the dough to fit a greased pizza pan, spread with tomato sauce, add the cooked chicken, top with slices of bell peppers, onions, and olives, cover generously with shredded mozzarella cheese; bake in a preheated oven at 220°C (428°F) for 15-20 minutes or until the crust is golden and cheese is bubbly; serve hot for a delicious Chicken Pan Pizza experience."
+    },
+    {
+        "id" : 7,
+        "title": "Spaghetti and Meatballs",
+        "image": "/img/gallery/img_4.jpg",
+        "authorImg": "/img/top-chiefs/img_2.jpg",
+        "description": "Mix 500g minced beef with 1 chopped onion, 2 chopped garlic cloves, 1 egg, 50g breadcrumbs, salt and pepper to taste, form into meatballs and fry them until golden brown, then prepare the sauce by frying 1 chopped onion and 2 cloves of garlic in olive oil, add 800 g of tomatoes in their own juice, salt, pepper, basil, thyme, cook for 20 minutes, add meatballs and simmer for another 10 minutes, boil spaghetti until done according to package instructions, serve spaghetti with sauce and meatballs, sprinkled with Parmesan and fresh basil."
+    },
+    {
+        "id" : 8,
+        "title": "American Cheese Burger",
+        "image": "/img/gallery/img_5.jpg",
+        "authorImg": "/img/top-chiefs/img_3.jpg",
+        "description": "Mix 500g of ground beef with salt and pepper to taste, form into four patties, grill each side for about 4 minutes for medium-rare, place a slice of American cheese on each patty in the last minute of grilling to melt, lightly toast 4 hamburger buns, spread mayonnaise, ketchup, and mustard to taste on the buns, place the cheese-topped patties on the buns, add slices of tomato, rings of red onion, pickles, and lettuce leaves, top with the other half of the bun, and serve immediately for a classic American cheeseburger experience."
+    },
+    {
+        "id" : 9,
+        "title": "Mutton Biriyani",
+        "image": "/img/gallery/img_6.jpg",
+        "authorImg": "/img/top-chiefs/img_5.jpg",
+        "description": "Marinate 1 kg mutton pieces with 200g yogurt, 2 tablespoons ginger-garlic paste, 1 teaspoon turmeric, 2 teaspoons red chili powder, 2 teaspoons garam masala, salt to taste, and juice of one lemon for at least 2 hours or overnight; in a large pot, fry 2 sliced onions until golden, add marinated mutton and cook until it's half done; soak 500g basmati rice for 30 minutes then cook it in a separate pot with cloves, cardamom, bay leaves, and salt until it's 70% done; layer the mutton and rice in the large pot, sprinkle fried onions, saffron soaked in milk, mint, and coriander leaves between the layers; cover and cook on a low flame for 45 minutes to an hour; serve hot with raita and salad for a delicious Mutton Biriyani."
+    },
+    {
+        "id" : 10,
+        "title": "Japanese Sushi",
+        "image": "/img/gallery/img_10.jpg",
+        "authorImg": "/img/top-chiefs/img_6.jpg",
+        "description": "Prepare sushi rice by washing 2 cups of short-grain sushi rice under cold water until the water runs clear, cook rice with 2 cups of water in a rice cooker or pot, then mix in a blend of 3 tablespoons rice vinegar, 2 tablespoons sugar, and 1 teaspoon salt while the rice is still warm; for the filling, slice fresh ingredients like raw salmon, tuna, avocado, cucumber, and cream cheese; place a sheet of nori (seaweed) on a bamboo sushi mat, spread a thin layer of sushi rice on the nori leaving about 1 cm at the top, arrange your choice of fillings in a line across the rice, roll the sushi tightly using the bamboo mat, then slice the roll into 6-8 pieces with a sharp, wet knife; serve with soy sauce, wasabi, and pickled ginger for an authentic Japanese Sushi experience."
+    },
+    {
+        "id" : 11,
+        "title": "American Cheese Burger",
+        "image": "/img/gallery/img_5.jpg",
+        "authorImg": "/img/top-chiefs/img_3.jpg",
+        "description": "Mix 500g of ground beef with salt and pepper to taste, form into four patties, grill each side for about 4 minutes for medium-rare, place a slice of American cheese on each patty in the last minute of grilling to melt, lightly toast 4 hamburger buns, spread mayonnaise, ketchup, and mustard to taste on the buns, place the cheese-topped patties on the buns, add slices of tomato, rings of red onion, pickles, and lettuce leaves, top with the other half of the bun, and serve immediately for a classic American cheeseburger experience."
+    },
+    {
+        "id" : 12,
+        "title": "Mutton Biriyani",
+        "image": "/img/gallery/img_6.jpg",
+        "authorImg": "/img/top-chiefs/img_5.jpg",
+        "description": "Marinate 1 kg mutton pieces with 200g yogurt, 2 tablespoons ginger-garlic paste, 1 teaspoon turmeric, 2 teaspoons red chili powder, 2 teaspoons garam masala, salt to taste, and juice of one lemon for at least 2 hours or overnight; in a large pot, fry 2 sliced onions until golden, add marinated mutton and cook until it's half done; soak 500g basmati rice for 30 minutes then cook it in a separate pot with cloves, cardamom, bay leaves, and salt until it's 70% done; layer the mutton and rice in the large pot, sprinkle fried onions, saffron soaked in milk, mint, and coriander leaves between the layers; cover and cook on a low flame for 45 minutes to an hour; serve hot with raita and salad for a delicious Mutton Biriyani."
+    }
+]

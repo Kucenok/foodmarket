@@ -1,0 +1,51 @@
+.section.hero .typography {
+    padding-right: 1em;
+}
+
+.section.hero .gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.75vw;
+}
+
+.section.hero .gallery .custom-image {
+    border-radius: 3px;
+    overflow: hidden;
+    transform: scale(0);
+    opacity: 0;
+    animation-name: popOut;
+    animation-duration: calc(0.5 * var(--animation-speed));
+    animation-fill-mode: forwards;
+}
+
+.section.hero .gallery .custom-image:nth-child(2) {
+    animation-delay: 0.1s;
+}
+
+.section.hero .gallery .custom-image:nth-child(3) {
+    animation-delay: 0.2s;
+}
+
+.section.hero .gallery .custom-image:nth-child(6) {
+    animation-delay: 0.3s;
+}
+
+.section.hero .gallery .custom-image:nth-child(9) {
+    animation-delay: 0.4s;
+}
+
+.section.hero .gallery .custom-image:nth-child(8) {
+    animation-delay: 0.5s;
+}
+
+.section.hero .gallery .custom-image:nth-child(7) {
+    animation-delay: 0.6s;
+}
+
+.section.hero .gallery .custom-image:nth-child(4) {
+    animation-delay: 0.7s;
+}
+
+.section.hero .gallery .custom-image:nth-child(5) {
+    animation-delay: 0.8s;
+}
